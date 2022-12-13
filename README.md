@@ -165,3 +165,4 @@ python ./generate.py --length=50 --nsamples=4 --prefix=xxx --fast_pattern --save
 
 # GPT2-Chinese
 # GPT2-Chinese
+# GPT2-Chinese
